@@ -1,2 +1,9 @@
 # TIL
-**[Statistical modeling]** R활용 통계모델링 입문 책을 참고서로 한 강의 노트 필기
+[ML] Machine learning
+- **[Statistical modeling]** Lecture notes (참고서: R활용 통계 모델링)
+  
+[DL] Deep learning
+
+[Paper] Summary of key findings and insights from the research paper
+
+[codes] 
